@@ -1,7 +1,7 @@
 # dog.rb
 class Dog
   def initialize(name, action)
-    module 
+    module Speak
 puts "Woof!"
 end
 end
