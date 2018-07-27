@@ -2,7 +2,8 @@
 class Dog
   def initialize(name, action)
     module Speak
-      def 
+      def speak(sound)
+        
 puts "Woof!"
 end
 end
