@@ -12,3 +12,6 @@ class Dog
 end
 
 
+
+sparky = GoodDog.new
+sparky.speak("Arf!")
