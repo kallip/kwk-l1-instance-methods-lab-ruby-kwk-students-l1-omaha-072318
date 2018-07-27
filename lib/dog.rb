@@ -1,17 +1,8 @@
 # dog.rb
 class Dog
-  def initialize(name, action)
-    module Speak
-      def speak(sound)
-        puts "#{sound}"
-      end
-puts "Woof!"
-
-class Dog
-  include Speak
-end
-
-
-
-sparky = GoodDog.new
-sparky.speak("Arf!")
+  def bark
+    puts "Woof!"
+  end
+  
+  class Dog
+    def 
