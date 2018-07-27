@@ -7,3 +7,4 @@ class Dog
       end
 puts "Woof!"
 
+class Dog
