@@ -9,3 +9,5 @@ puts "Woof!"
 
 class Dog
   include Speak
+end
+
