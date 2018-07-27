@@ -4,6 +4,6 @@ class Dog
     module Speak
       def speak(sound)
         puts "#{sound}"
+      end
 puts "Woof!"
-end
-end
+
